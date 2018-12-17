@@ -27,5 +27,5 @@ data analysis is negligible false positive (FP) and false negative (FN). The opt
 code and extract all files and keep that folder name as it is .
 
 
-guidline.pdf  is a very early basic guide (Version 1 is imcomplete, But ship it anyway)
+guidline.pdf  is a very early basic guide (Version 1 is incomplete, But ship it anyway)
 
