@@ -26,9 +26,13 @@ data analysis is negligible false positive (FP) and false negative (FN). The opt
 
 # Requirments
 Python 3+  
+
 Platform Linux Ubuntu 16.04
+
 NVIDIA GPU
+
 Tensorflow-gpu 1.7+ and its dependencies  ( https://www.tensorflow.org/install/gpu) 
+
 
 # How to run 
 Extract all files and keep that folders name as it is.
