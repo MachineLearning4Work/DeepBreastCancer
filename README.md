@@ -22,3 +22,8 @@ malignant- (ductal carcinoma, lobular carcinoma, mucinous carcinoma, and papilla
 96.4% accuracy, respectively. The confusion matrices revealed high sensitivity values of 1, 0.995 and 0.993 for cancer types, as well as malignant- and benign sub-types respectively. The areas under the curve (AUC) scores were 0.996, 0.973 and 0.996 for
 cancer types, malignant and benign sub-types, respectively. One of the most significant and striking result to emerge from the
 data analysis is negligible false positive (FP) and false negative (FN). The optimum results, as shown in Tables, indicate that FP is between 0 and 4 while FN is between 0 and 8 in which test data including 800, 900, 809, 1000 for given four classes
+
+# How to run 
+code and extract all files and keep that folder name as it is .
+guidline.pdf  is a very early basic guide (Version 1 is imcomplete, But ship it anyway)
+
