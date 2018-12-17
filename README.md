@@ -1,6 +1,7 @@
 # DeepBreastCancer - (To be completed soon) 
 
 #Full Research is here
+
 https://www.biorxiv.org/content/early/2018/01/04/242818
 
 
@@ -24,7 +25,10 @@ cancer types, malignant and benign sub-types, respectively. One of the most sign
 data analysis is negligible false positive (FP) and false negative (FN). The optimum results, as shown in Tables, indicate that FP is between 0 and 4 while FN is between 0 and 8 in which test data including 800, 900, 809, 1000 for given four classes
 
 # How to run 
-code and extract all files and keep that folder name as it is .
+Extract all files and keep that folders name as it is.
+
+
+Gentle reminder:  4.TFslim_fine_tune.zip should be Extracted and kept as a folder with its own contents 
 
 
 guidline.pdf  is a very early basic guide (Version 1 is incomplete, But ship it anyway)
