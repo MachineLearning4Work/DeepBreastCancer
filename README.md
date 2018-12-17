@@ -52,8 +52,13 @@ This work has been supported in part by a  start-up  fund  from  Weill  Cornell 
 # Contact Info : 
 
 Mehdi Habibzadeh  (me_habi@encs.concordia.ca) 
+
 Mahboobeh Janesari (mahboobeh.jannesary@gmail.com)
+
 Hamidreza AB ES (hamidrezaab@gmail.com)
+
 Mehdi Totonchi (totonchimehdi@gmail.com)
+
 Iman Hajirasouliha (imh2003@med.cornell.edu)
+
 Olivier Elemento (ole2001@med.cornell.edu)
