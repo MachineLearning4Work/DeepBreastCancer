@@ -24,6 +24,12 @@ malignant- (ductal carcinoma, lobular carcinoma, mucinous carcinoma, and papilla
 cancer types, malignant and benign sub-types, respectively. One of the most significant and striking result to emerge from the
 data analysis is negligible false positive (FP) and false negative (FN). The optimum results, as shown in Tables, indicate that FP is between 0 and 4 while FN is between 0 and 8 in which test data including 800, 900, 809, 1000 for given four classes
 
+# Requirments
+Python 3+  
+Platform Linux Ubuntu 16.04
+NVIDIA GPU
+Tensorflow-gpu 1.7+ and its dependencies  ( https://www.tensorflow.org/install/gpu) 
+
 # How to run 
 Extract all files and keep that folders name as it is.
 
