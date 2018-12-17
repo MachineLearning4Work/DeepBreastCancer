@@ -36,5 +36,5 @@ guidline.pdf  is a very early basic guide (Version 1 is incomplete, But ship it 
 
 #Support By: 
 
-This work has been supported in part by the Iranian National Elite  Foundation   and   grants   provided   by   Royan   Institute
-to  Mehdi  Totonchi  and  a  start-up  fund  from  Weill  Cornell Medicine to Iman Hajirasouliha.
+This work has been supported in part by a  start-up  fund  from  Weill  Cornell Medicine  and the Iranian National Elite  Foundation   and   grants   provided   by   Royan   Institute.
+
