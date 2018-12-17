@@ -53,7 +53,7 @@ This work has been supported in part by a  start-up  fund  from  Weill  Cornell 
 
 Mehdi Habibzadeh  (me_habi@encs.concordia.ca) 
 
-Mahboobeh Janesari (mahboobeh.jannesary@gmail.com)
+Mahboobeh Jannesari (mahboobeh.jannesary@gmail.com)
 
 Hamidreza AB ES (hamidrezaab@gmail.com)
 
