@@ -1,0 +1,4 @@
+0:Ductal_carcinoma
+1:Lobular_carcinoma
+2:Mucinous_carcinoma
+3:Papillary_carcinoma
