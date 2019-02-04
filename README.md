@@ -2,7 +2,7 @@
 
 #Full Research is here
 
-https://www.biorxiv.org/content/early/2018/01/04/242818
+https://ieeexplore.ieee.org/document/8621307
 
 
 Breast Cancer Histopathological Image Classification: A Deep Learning Approach
@@ -48,6 +48,31 @@ guidline.pdf  is a very early basic guide (Version 1 is incomplete, But ship it 
 # Support By: 
 
 This work has been supported in part by a  start-up  fund  from  Weill  Cornell Medicine  and the Iranian National Elite  Foundation   and   grants   provided   by   Royan   Institute.
+
+
+# Citation 
+
+If you find this code/ research useful in your research, please consider citing:
+
+Plain Text : 
+M. Jannesari et al., "Breast Cancer Histopathological Image Classification: A Deep Learning Approach," 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Madrid, Spain, 2018, pp. 2405-2412.
+
+BibTex:
+
+@INPROCEEDINGS{BreastCancerBIBM2018,
+author={M. Jannesari and M. Habibzadeh and H. Aboulkheyr and P. Khosravi and O. Elemento and M. Totonchi and I. Hajirasouliha},
+booktitle={2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+title={Breast Cancer Histopathological Image Classification: A Deep Learning Approach},
+year={2018},
+volume={},
+number={},
+pages={2405-2412},
+keywords={Breast cancer;Deep learning;Tumors;Pathology;Training;Convolutional Neural Network;Deep learning;Digital Pathology Imaging;Breast cancer},
+doi={10.1109/BIBM.2018.8621307},
+ISSN={},
+month={Dec},}
+
+
 
 # Contact Info : 
 
